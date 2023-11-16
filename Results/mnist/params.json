@@ -1,0 +1,1 @@
+{"dataset": "mnist", "rows": [200, 200], "cols": 784, "rank": 5, "strata": 2, "iterations": 100, "v_scaling": 2}

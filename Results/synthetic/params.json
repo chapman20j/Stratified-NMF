@@ -1,0 +1,1 @@
+{"dataset": "synthetic", "rows": [100, 100, 100, 100], "cols": 100, "rank": 5, "strata": 4, "iterations": 10000, "v_scaling": 2}
