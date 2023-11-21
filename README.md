@@ -1,6 +1,8 @@
 # Stratified-NMF
 
-This github repository contains the code used to run the experiments in "Stratified-NMF for Heterogenous Data" by James Chapman, Yotam Yaniv, and Deanna Needell.
+This github repository contains the code used to run the experiments in "[Stratified-NMF for Heterogenous Data](http://arxiv.org/abs/2311.10789)" by James Chapman, Yotam Yaniv, and Deanna Needell.
+
+Arxiv: [http://arxiv.org/abs/2311.10789](http://arxiv.org/abs/2311.10789)
 
 ## How to use this code
 
